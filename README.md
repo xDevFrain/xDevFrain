@@ -61,7 +61,7 @@
 
 <br>
 
-- **Databases & Cloud Hosting**:
+- **Databases**:
 
 <p align="left">
   &emsp;
@@ -70,7 +70,7 @@
 
 <br>
 
-- **Databases & Cloud Hosting**:
+- **Cloud Hosting**:
  
 <p>
   &emsp;
