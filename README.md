@@ -70,7 +70,7 @@
 
 <br>
 
-- **Cloud Hosting**:
+- **Developer Tools**:
  
 <p>
   &emsp;
